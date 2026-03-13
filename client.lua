@@ -34,5 +34,5 @@ end
 
 RegisterCommand('testnotify', function(source, args)
     local type = args[1] or 'info'
-    Notify(type, 'Test Notifikace', 'Toto je testovací zpráva pro notify systém.', 5000)
+    Notify(type, 'Test Notification', 'This is test notification', 5000)
 end, false)

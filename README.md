@@ -37,6 +37,13 @@
 ```cfg
 ensure cz_notifysystem
 ```
+---
+
+## 🔧 Preview
+![Info](https://github.com/Czmenz/cz_notifysystem/blob/main/Screenshots/info.png?raw=true)
+![Sucess](https://github.com/Czmenz/cz_notifysystem/blob/main/Screenshots/sucess.png?raw=true)
+![Warning](https://github.com/Czmenz/cz_notifysystem/blob/main/Screenshots/warning.png?raw=true)
+![Error](https://github.com/Czmenz/cz_notifysystem/blob/main/Screenshots/error.png?raw=true)
 
 ---
 
